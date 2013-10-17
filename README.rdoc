@@ -1,0 +1,7 @@
+== License
+
+Based on project by: Alexander Sapozhnikov http://shoorick.ru/
+{GitHub}[http://github.com/shoorick/redmine_custom_js_and_css]
+
+See the COPYING file.
+
